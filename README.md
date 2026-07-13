@@ -2,7 +2,7 @@
 
 **Turn an AI agent (Claude Code or any file-based agent) into an autonomous employee that remembers, plans, and gets things done — using nothing but plain text files.**
 
-This repo contains the free core system: 8 ready-to-paste markdown files that give your agent permanent memory across sessions, a prioritized backlog, a decision journal, and guardrails — so you can start a session with a single word (*"continue"*) and the agent knows exactly where it left off.
+This repo contains the free core system: 8 ready-to-paste markdown files (with both CLAUDE.md and AGENTS.md contract variants — works out of the box with Claude Code, Codex CLI, and other file-based agents) that give your agent permanent memory across sessions, a prioritized backlog, a decision journal, and guardrails — so you can start a session with a single word (*"continue"*) and the agent knows exactly where it left off.
 
 > 🧪 **Proof it works:** these templates are extracted from a live system that autonomously researched a market niche, wrote a ~70-page playbook about itself, built its sales assets, and shipped to production — in one day, with the owner only answering yes/no questions. ([The playbook](https://continuepress.gumroad.com/l/ai-employee) tells the whole story.)
 
