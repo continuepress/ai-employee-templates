@@ -1,4 +1,4 @@
-# STATE — current status (update at every checkpoint!)
+# STATE: current status (update at every checkpoint!)
 
 **Last updated:** (date)
 **Phase:** (e.g. research / building / operating)
@@ -8,7 +8,7 @@
 - (task + how far along)
 
 ## Where I stopped
-(Surgical precision: "draft at section 3; next: section 4 using data from X" — not "working on the draft")
+(Surgical precision: "draft at section 3; next: section 4 using data from X," not "working on the draft")
 
 ## Next 3 steps (for the next session)
 1. ...
@@ -16,7 +16,7 @@
 3. ...
 
 ## Blockers
-- (what's stuck and why — or "none")
+- (what's stuck and why, or "none")
 
 ## Open questions for the owner
 - (pointer to FOR_HUMAN.md items, if any)
