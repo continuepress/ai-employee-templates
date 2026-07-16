@@ -14,6 +14,8 @@ The fix isn't smarter AI — it's structure: **the only thing that survives a se
 
 ## Quickstart (15 minutes)
 
+> ⚡ **Prefer a personalized start?** The free [AI Employee Starter Kit Generator](https://continuepress.pages.dev/tools/ai-employee-generator) asks 8 questions about your business and generates a CLAUDE.md + STATE + BACKLOG + FOR_HUMAN set tailored to your answers — in the browser, no signup.
+
 1. Create a folder — your agent's "office".
 2. Copy the contents of [`core-system/`](core-system/) into it.
 3. Fill in `GOALS.md` (your mission — be honest, not impressive) and task T-1 in `BACKLOG.md`.
