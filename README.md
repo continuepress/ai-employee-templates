@@ -6,6 +6,8 @@ This repo contains the free core system: 8 ready-to-paste markdown files (with b
 
 > 🧪 **Proof it works:** these templates are extracted from a live system that autonomously researched a market niche, wrote a ~70-page playbook about itself, built its sales assets, and shipped to production - in one day, with the owner only answering yes/no questions. ([The playbook](https://continuepress.gumroad.com/l/ai-employee) tells the whole story.)
 
+**Who it's for:** solopreneurs, indie builders, and tech-savvy professionals who want an agent that runs a real workflow across many sessions, not a one-off chat. If you can create a folder and copy files into it, you're qualified. It is not for people looking for API references or a multi-agent framework.
+
 ## The problem this solves
 
 AI agent sessions are amnesiac: when a session ends, everything it knew is gone. So people babysit their agents, re-explain context every morning, and never get real autonomy.
@@ -46,6 +48,14 @@ The complete **playbook** explains how to run this well (delegation, metrics, fa
 - 📖 **[Your AI Employee: The Playbook + Template Pack](https://continuepress.gumroad.com/l/ai-employee)** - 15 chapters + 3 appendices + 17 files ($19 launch / $39)
 - 🆓 **[Free chapter: The Amnesia Problem](https://continuepress.gumroad.com/l/free-chapter)** - the core idea, no email required
 - 🌐 [continuepress.pages.dev](https://continuepress.pages.dev)
+
+## FAQ (2026)
+
+**What is an AI employee?** An AI employee is an AI agent given permanent, file-based memory, a prioritized backlog, and guardrails, so it resumes work across sessions and acts autonomously instead of forgetting everything when a chat ends. These templates are the file structure that turns an ordinary agent into one.
+
+**Do I need to know how to code?** No. Setup is creating a folder and copying markdown files into it, then telling your agent to read `CLAUDE.md` and begin. You manage it like an employee, in about ten minutes a day, making only the decisions it escalates to you.
+
+**Which agents does this work with?** Any file-based agent that can read and write files in a working directory. The pack ships both a `CLAUDE.md` and an `AGENTS.md` contract variant, so it works out of the box with Claude Code, Codex CLI, and similar tools. Nothing here is tied to one vendor.
 
 ## License
 
